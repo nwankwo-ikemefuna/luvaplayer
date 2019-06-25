@@ -1,0 +1,127 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">LuvaPlayer</string>
+
+    <!-- Category name for Tracks [CHAR LIMIT=20] -->
+    <string name="category_tracks">All Tracks</string>
+
+    <!-- Category name for Playlist [CHAR LIMIT=20] -->
+    <string name="category_playlist">My Playlist</string>
+
+    <!-- Category name for Recently Played Songs [CHAR LIMIT=20] -->
+    <string name="category_recent_songs">Recently Played</string>
+
+    <!-- Now Playing [CHAR LIMIT=20] -->
+    <string name="now_playing">Now Playing</string>
+
+    <!-- Song 1 [CHAR LIMIT=50] -->
+    <string name="song_title_1">Always</string>
+    <string name="song_artist_1">Bon Jovi</string>
+
+    <!-- Song 2 [CHAR LIMIT=50] -->
+    <string name="song_title_2">All The Little Lights</string>
+    <string name="song_artist_2">Passenger</string>
+
+    <!-- Song 3 [CHAR LIMIT=50] -->
+    <string name="song_title_3">Before I Go</string>
+    <string name="song_artist_3">Yanni</string>
+
+    <!-- Song 4 [CHAR LIMIT=50] -->
+    <string name="song_title_4">Chandelier</string>
+    <string name="song_artist_4">Sia</string>
+
+    <!-- Song 5 [CHAR LIMIT=50] -->
+    <string name="song_title_5">Drop To Hold You</string>
+    <string name="song_artist_5">Matt Nathanson</string>
+
+    <!-- Song 6 [CHAR LIMIT=50] -->
+    <string name="song_title_6">Every Teardrop Is A Waterfall</string>
+    <string name="song_artist_6">Coldplay</string>
+
+    <!-- Song 7 [CHAR LIMIT=50] -->
+    <string name="song_title_7">Fatal Hesitation</string>
+    <string name="song_artist_7">Chris De Burgh</string>
+
+    <!-- Song 8 [CHAR LIMIT=50] -->
+    <string name="song_title_8">Grenade</string>
+    <string name="song_artist_8">Bruno Mars</string>
+
+    <!-- Song 9 [CHAR LIMIT=50] -->
+    <string name="song_title_9">Heaven</string>
+    <string name="song_artist_9">Bryan Adams</string>
+
+    <!-- Song 10 [CHAR LIMIT=50] -->
+    <string name="song_title_10">Immortality</string>
+    <string name="song_artist_10">Celine Dion</string>
+
+    <!-- Song 11 [CHAR LIMIT=50] -->
+    <string name="song_title_11">Just A Crush</string>
+    <string name="song_artist_11">Grace VanderWaal</string>
+
+    <!-- Song 12 [CHAR LIMIT=50] -->
+    <string name="song_title_12">Kiss From A Rose</string>
+    <string name="song_artist_12">Seal</string>
+
+    <!-- Song 13 [CHAR LIMIT=50] -->
+    <string name="song_title_13">Lifted</string>
+    <string name="song_artist_13">Light House Family</string>
+
+    <!-- Song 14 [CHAR LIMIT=50] -->
+    <string name="song_title_14">Midnight City</string>
+    <string name="song_artist_14">M83</string>
+
+    <!-- Song 15 [CHAR LIMIT=50] -->
+    <string name="song_title_15">Never Really Over</string>
+    <string name="song_artist_15">Katty Perry</string>
+
+    <!-- Song 16 [CHAR LIMIT=50] -->
+    <string name="song_title_16">Power of Love</string>
+    <string name="song_artist_16">Celine Dion</string>
+
+    <!-- Song 17 [CHAR LIMIT=50] -->
+    <string name="song_title_17">Queen of Knots</string>
+    <string name="song_artist_17">Matt Nathanson</string>
+
+    <!-- Song 18 [CHAR LIMIT=50] -->
+    <string name="song_title_18">Restless Heart</string>
+    <string name="song_artist_18">John Parr</string>
+
+    <!-- Song 19 [CHAR LIMIT=50] -->
+    <string name="song_title_19">Shallow</string>
+    <string name="song_artist_19">Lady Gaga and Bradley Cooper</string>
+
+    <!-- Song 20 [CHAR LIMIT=50] -->
+    <string name="song_title_20">Six White Horses</string>
+    <string name="song_artist_20">Tommy Cash</string>
+
+    <!-- Song 21 [CHAR LIMIT=50] -->
+    <string name="song_title_21">Time</string>
+    <string name="song_artist_21">Obiagazie Chidinma</string>
+
+    <!-- Song 22 [CHAR LIMIT=50] -->
+    <string name="song_title_22">Tubthumping</string>
+    <string name="song_artist_22">Chumbawamba</string>
+
+    <!-- Song 23 [CHAR LIMIT=50] -->
+    <string name="song_title_23">Uyo Meyo</string>
+    <string name="song_artist_23">Teni</string>
+
+    <!-- Song 24 [CHAR LIMIT=50] -->
+    <string name="song_title_24">Viva La Vida</string>
+    <string name="song_artist_24">Coldplay</string>
+
+    <!-- Song 25 [CHAR LIMIT=50] -->
+    <string name="song_title_25">Warmness On The Soul</string>
+    <string name="song_artist_25">Avenged Sevenfold</string>
+
+    <!-- Song 26 [CHAR LIMIT=50] -->
+    <string name="song_title_26">You\'ll Never See Me Again</string>
+    <string name="song_artist_26">Adele</string>
+
+    <!-- Recent Song [CHAR LIMIT=50] -->
+    <string name="recent_song_details_1">Bon Jovi - Always</string>
+    <string name="recent_song_details_10">Celine Dion - Immortality</string>
+    <string name="recent_song_details_15">Katty Perry - Never Really Over</string>
+    <string name="recent_song_details_21">Obiagazie Chidinma - Time</string>
+
+</resources>
