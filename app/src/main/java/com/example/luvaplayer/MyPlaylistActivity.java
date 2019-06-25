@@ -16,18 +16,6 @@ public class MyPlaylistActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tracks);
 
-        // Attach event listener to home icon to return user to app home
-        ImageView homeIcon = (ImageView) findViewById(R.id.home_icon);
-        // Set a click listener on this View
-        homeIcon.setOnClickListener(new View.OnClickListener() {
-            // The code in this method will be executed when the home icon View is clicked on.
-            @Override
-            public void onClick(View view) {
-                Intent appHomeIntent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(appHomeIntent);
-            }
-        });
-
         // Create a list of songs using our custom class Song as type parameter
         final ArrayList<Song> songs = new ArrayList<Song>();
         songs.add(new Song(getString(R.string.song_title_2), getString(R.string.song_artist_2), "4:01", R.drawable.song_image_2));
