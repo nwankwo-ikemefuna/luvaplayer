@@ -18,12 +18,15 @@
         </activity>
         <activity
             android:name=".TracksActivity"
+            android:parentActivityName=".MainActivity"
             android:label="@string/category_tracks" />
         <activity
             android:name=".MyPlaylistActivity"
+            android:parentActivityName=".MainActivity"
             android:label="@string/category_playlist" />
         <activity
             android:name=".NowPlayingActivity"
+            android:parentActivityName=".TracksActivity"
             android:label="@string/now_playing" />
 
     </application>
